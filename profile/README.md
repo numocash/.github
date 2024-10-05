@@ -1,8 +1,8 @@
 # ![Group 222](https://github.com/numotrade/.github/assets/44106773/dc38a6fd-e902-4686-afbb-57358baddb50)
 
-**_An Autonomous Bank._**
+**_Stable, inflation-resistant money._**
 
-Numo empowers anyone to access leverage or earn yield on any token. Our mission is to expand decentralized finance to the masses. 
+Numo empowers anyone to access stable money independent of any goverment or central bank.
 
 ## Links
 
