@@ -6,10 +6,6 @@ Numo empowers anyone to access stable money independent of any goverment or cent
 
 ## Links
 
-* [Website](https://www.numo.trade/)
+* [Website](https://www.numo.cash/)
+* [Twitter](https://twitter.com/numocash)
 
-* [Twitter](https://twitter.com/numotrade)
-
-## Documentation 
-
-#### TBD
