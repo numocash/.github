@@ -5,6 +5,6 @@
 
   ***Hedge any exotic FX pair***
 
-  Numo is a treasury management system that enables dynamic hedging of exotic FX pairs such as `USD/ARS` and `USD/NGN` that are traditionally hard to hedge due to a lack of liquidity. With Numo, businesses and individuals can now transact in any local currency without having to worry about exchange rate volatility.
+Numo is an treasury management system that enables fully automated, dynamic hedging of exotic FX pairs such as `USD/ARS` and `USD/NGN` that are traditionally hard to hedge due to a lack of liquidity. With Numo, businesses and individuals can now transact in any local currency without having to worry about exchange rate volatility.
   
 </div>
