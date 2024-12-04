@@ -3,6 +3,6 @@
 
   [![X Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://x.com/numocash)
 
-**Numo is a hedging solution for FX markets.** Foreign currencies such as the Kenyan Schilling (KES) are traditionally hard to hedge due to minimal liquidity in their derivative instruments. Numo addresses this problem by offering a solution that eliminates the reliance on liquid derivative markets and at a significantly lower cost to traditional hedging methods.
+**Numo is a hedging solution for FX markets.** Exotic foreign currencies such as the Kenyan Schilling (KES) are traditionally hard to hedge due to minimal liquidity in their derivative instruments. Numo addresses this problem by offering a solution that eliminates the reliance on liquid derivative markets and at a significantly lower cost to traditional hedging methods.
   
 </div>
