@@ -3,6 +3,6 @@
 
   [![X Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://x.com/numocash)
 
-**Numo is a treasury management solution for FX markets.** Through a fully automated system, Numo can offer dynamic hedging of exotic FX pairs such as `USD/BRL` and `USD/KES` that are traditionally hard to hedge due to a lack of liquidity. With Numo, businesses and individuals can now transact in any local currency without having to worry about exchange rate volatility.
+**Numo is a hedging solution for FX markets.** Foreign currencies such as the Kenyan Schilling (KES) are traditionally hard to hedge due to minimal liquidity in their derivative instruments. Numo addresses this problem by offering a solution that eliminates the reliance on liquid derivative markets and at a significantly lower cost to traditional hedging methods.
   
 </div>
